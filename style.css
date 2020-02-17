@@ -1,0 +1,42 @@
+.header-footer {
+    background-color: #791d71;
+    background-position: center top;
+    padding: 20px;
+  }
+
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
+
+body {
+    margin: 0 auto;
+    max-width: 70em;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    line-height: 1.5;
+    padding: 1em 1em;
+    color: rgb(43, 42, 42);
+    background: rgb(211, 175, 175)
+  }
+
+.vizitka {
+    margin: 0 auto;
+    max-width: 40em;
+    max-height: 30em;
+    border: 5px solid rgb(218, 37, 202);
+    padding: 1em 1em;
+
+    }
+
+h1,
+h2,
+strong {
+  color: #333;
+}
+
+a:hover {
+    color:  #e81c4f;
+  }
+
+img {
+    float: right;
+    padding: 10px;
+
+}
