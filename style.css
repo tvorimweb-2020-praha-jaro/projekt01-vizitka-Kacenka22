@@ -35,8 +35,34 @@ a:hover {
     color:  #e81c4f;
   }
 
-img {
+#profilovka {
     float: right;
     padding: 10px;
 
+}
+
+img {
+  padding: 10px;
+
+}
+
+.navigace li {
+  display: inline-block;
+}
+
+ul {
+  padding: 0;
+  background-color: #b92e81;
+}
+
+.navigace a {
+  display: block;
+  padding: 1em;
+  color: white;
+  text-decoration: none;
+}
+
+.navigace a:hover,
+.navigace a:focus {
+  background-color: #95a5a6;
 }
